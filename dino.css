@@ -1,4 +1,6 @@
-body {
+* {
+  background-color: PaleTurquoise;
+  font-family: Verdana;
+  font-size: 20px;
   text-align: center;
-  color: red;
-}
+      }
